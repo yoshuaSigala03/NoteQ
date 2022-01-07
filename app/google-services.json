@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019301831643",
+    "project_id": "noteq-72e47",
+    "storage_bucket": "noteq-72e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019301831643:android:1491bc8cfcfd77ed917dfe",
+        "android_client_info": {
+          "package_name": "com.example.noteq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019301831643-ovljr2uo6nu589mfhu5e387h2j850hco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdAqW0CpTL5CKNXDUb41CP3xmlDHZFVPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019301831643-ovljr2uo6nu589mfhu5e387h2j850hco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
